@@ -1,0 +1,6 @@
+print("My name is Omar")
+print("I am starting backend engineering")
+print(10+5)
+print(10*5)
+print("10+5=",10+5)
+print("9"*8)
